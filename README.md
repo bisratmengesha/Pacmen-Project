@@ -1,6 +1,6 @@
 # PacMen
 ## PacMen Exercise
-<img src = "game.png" width = '300'/>
+<img src ='./images/PackMan5.png'>
 
 
 
